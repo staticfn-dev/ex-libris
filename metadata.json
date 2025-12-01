@@ -1,0 +1,5 @@
+{
+  "name": "ex libris",
+  "description": "A smart bookshelf for research papers. Organize your reading list with AI-generated summaries and automatic tagging.",
+  "requestFramePermissions": []
+}
